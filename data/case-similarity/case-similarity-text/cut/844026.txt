@@ -1,0 +1,15 @@
+transmitted or temporarily stored or hosted; or
+(b) the intermediary does not-
+(i) initiate the transmission,
+(ii) select the receiver of the transmission, and
+(iii) select or modify the information contained in the transmission;
+(c) the intermediary observes due diligence while discharging his duties under
+this Act and also observes such other guidelines as the Central Government may
+prescribe in this behalf.
+(3) The provisions of sub-section (1) shall not apply if-
+(a) the intermediary has conspired or abetted or aided or induced, whether by
+threats or promise or othorise in the commission of the unlawful act;
+(b) upon receiving actual knowledge, or on being notified by the appropriate
+Government or its agency that any information, data or communication link
+residing in or connected to a computer resource, controlled by the
+intermediary is being used to commit the unlawful act, the intermediary fails

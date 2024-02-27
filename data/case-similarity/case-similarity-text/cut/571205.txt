@@ -1,0 +1,15 @@
+                                            (Rs.)                        (Rs.)
+           Opening stock                     100 Sales                  1,000
+           Purchases (including customs      500 Duty Drawback             100
+           duty paid)                            received
+                                                                                          24
+           Manufacturing overheads              300 Closing stock                   200
+           Administrative, Selling and          200
+           Distribution Exp.
+           Net profit                           200
+                                              1,300                               1,300
+Note: In above example, Department is allowing deduction on profit of Rs. 100
+under Section 80-IB of the 1961 Act.
+24\. In the circumstances, we hold that Duty drawback receipt/DEPB benefits do
+not form part of the net profits of eligible industrial undertaking for the
+purposes of Sections 80I/80-IA/80-IB of the 1961 Act.

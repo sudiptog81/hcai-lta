@@ -1,0 +1,20 @@
+                                                                     (Rohit Arya)
+    b/-                                                                Judge
+                                                                       27-11-2017
+          MVR
+                   Digitally signed by M V R BALAJI
+                   SARMA
+                   DN: c=IN, o=HIGH COURT OF
+                   MADHYA PRADESH INDORE,
+                   postalCode=452001, st=Madhya
+          BALAJI
+                   Pradesh,
+                   2.5.4.20=dfd648b7a72175dda734e
+                   a3f09b637e5485763880c50c1966c
+                   bd24d7e7cdfee0,
+                   2.5.4.45=032100257F82CA97352F
+          SARMA
+                   5A6F6E270FAFC6A036F71F4CF93
+                   4D7DC3C1F18C329440EAAEB,
+                   cn=M V R BALAJI SARMA
+                   Date: 2017.11.28 10:24:05 +05'30'

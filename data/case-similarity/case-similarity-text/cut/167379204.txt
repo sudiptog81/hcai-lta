@@ -1,0 +1,15 @@
+> earned by broadly comparable independent companies range from (-) 1.77
+> percent to 28.52 percent with an arithmetical mean of 14.23 percent.
+Further, on pages 164 & 165 of the paper book para 4.3.1, the functions under
+the software development are reproduced as under :
+> 4.3. Software Development 4.3.1. Functions G&D India renders software
+> development services to G&D GmbH wherein it develops applications
+> software(s) for G&D GmbH. In this regard, G&D India has entered into a
+> 'software development agreement' effective from December 12, 2005.
+> G&D India is primarily engaged in the following software business:
+• Development of software for the Smartcard module, which is sold to G&D GmbH.
+The chip set module software is developed as per the general requirements of
+the markets and is primarily developed for G&D GmbH. About 90 percent of the
+total development activity relates to the development of software used as a
+part of the Smartcard module and is sold as a part of the smartcard. The
+software development process for the development of the chip set module is

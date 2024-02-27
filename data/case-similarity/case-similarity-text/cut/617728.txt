@@ -1,0 +1,15 @@
+in ACER India Ltd. (supra) has no application to the facts of the present
+case. Further, in the case of ACER India Ltd. (supra), the subject-matter of
+the levy was a computer whereas the subject-matter of the levy in the present
+case is STD-PCO unit. The concurrent finding of all the courts below indicate
+that, in the present case, the programme was etched in a particular form of
+circuit known as ROM which is required to be fixed to the mother board and
+only on such fitment the STD-PCO unit became operational. Therefore, the
+judgment of this Court in ACER India Ltd. (supra) has no application to the
+facts of the present case. In fact, in the judgment of this Court in ACER
+India Ltd. (supra) the Court was not required to examine the scope of CH
+85.42.
+Before concluding, we reiterate that in the present case, the levy is on a
+computer based embedded system. The software embedded in the programmed EPROM,
+which is an IC chip, constitutes the "brain" of the system. The programmed
+EPROM is an integral part of the system. The levy is on the unit. The levy is

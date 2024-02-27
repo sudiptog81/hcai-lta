@@ -1,0 +1,6 @@
+[submodule "data/cbp-lkg"]
+	path = data/cbp-lkg
+	url = https://us-south.git.cloud.ibm.com/anu-kg/legal-kg.git
+[submodule "data/knowledge-infusion"]
+	path = data/knowledge-infusion
+	url = https://us-south.git.cloud.ibm.com/anu-kg/knowledge-graph-extraction.git
