@@ -2,7 +2,7 @@
 #!/bin/bash
 
 source_dir="../data/cbp-lkg/data/LEGAL_TEXT/"
-destination_dir="../results/case-similarity-text/for-summarization"
+destination_dir="../data/case-similarity/case-similarity-text/for-summarization"
 
 mkdir -p "$destination_dir"
 
